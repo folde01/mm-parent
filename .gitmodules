@@ -1,3 +1,4 @@
 [submodule "mm-child"]
 	path = mm-child
 	url = https://github.com/folde01/mm-child
+	branch = stable
